@@ -11,29 +11,29 @@ interests:
   - Machine Learning
 social:
   - icon: envelope
-    icon_pack: fas
-    link: /#contact
+    icon_pack: ai
+    link: https://senyaofeng20@gmail.com
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: ai
+    link: https://twitter.com/SenyaoF
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=uP2WbmIAAAAJ&hl=en&oi=ao
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: ai
+    link: https://github.com/SenyaoFeng
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Senyao-Feng
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lanzhou University
+    url: https://en.lzu.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
