@@ -36,15 +36,12 @@ organizations:
     url: https://en.lzu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Grassland Science
+      institution: Lanzhou University
+      year: ""
+    - course: BEng in Land resource management
+      institution: Sichuan Agricultural University
+      year: ""
 superuser: true
 status:
   icon: ☕️
